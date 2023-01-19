@@ -42,5 +42,5 @@ It is a student management system which has the functionalities like
           
 ![stu2](https://user-images.githubusercontent.com/83025741/213468021-be783c7d-d60f-4fa7-9a29-7348e2a62311.PNG)
 
-          ![stu3](https://user-images.githubusercontent.com/83025741/213468036-ceb5f99c-c109-4435-a613-be0daddc4738.PNG)
+![stu3](https://user-images.githubusercontent.com/83025741/213468036-ceb5f99c-c109-4435-a613-be0daddc4738.PNG)
 
